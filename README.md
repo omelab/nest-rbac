@@ -1,4 +1,4 @@
-# creating a NestJS project with TypeORM, PostgreSQL, and a role-based access control (RBAC) system.
+# Creating a NestJS project with TypeORM, PostgreSQL, and a role-based access control (RBAC) system.
 
 ## Prerequisites
 
